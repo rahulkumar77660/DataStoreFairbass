@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "323771632581",
+    "project_id": "registerdatabase-2a244",
+    "storage_bucket": "registerdatabase-2a244.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:323771632581:android:ab8c6aa1186c462d0719ac",
+        "android_client_info": {
+          "package_name": "com.example.datastorefairbass"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDoyReFT3tC5QkBpA25cOrPrCq9kDUIlac"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
